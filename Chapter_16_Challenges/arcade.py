@@ -1,5 +1,5 @@
 import sys
-from rps import rps
+from Chapter_5_User_Input.rps import rps
 from guess_number import guess_number
 
 
